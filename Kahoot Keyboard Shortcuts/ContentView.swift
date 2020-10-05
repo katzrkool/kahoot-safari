@@ -8,7 +8,7 @@
 import SwiftUI
 import SafariServices.SFSafariApplication
 let appName = "Kahoot Keyboard Shortcuts"
-let extensionBundleIdentifier = "org.lkellar.kahoot-extension"
+let extensionBundleIdentifier = "org.lkellar.kahoot.extension"
 
 struct ContentView: View {
     @State var extensionEnabled: Bool = false
