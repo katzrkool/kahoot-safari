@@ -7,7 +7,6 @@
 
 import SwiftUI
 import SafariServices.SFSafariApplication
-let appName = "Kahoot Keyboard Shortcuts"
 let extensionBundleIdentifier = "org.lkellar.kahoot.extension"
 
 struct ContentView: View {
@@ -17,7 +16,7 @@ struct ContentView: View {
             Image("Icon")
                 .resizable()
                 .frame(width: 200, height: 200, alignment: .center)
-            Text("Kahoot Keyboard Shortcuts").font(.headline)
+            Text("Keyboard Shortcuts for Kahoot").font(.headline)
             Text("Open Safari Preferences to enable the extension and set your shortcuts.")
                 .font(.footnote)
                 .lineLimit(4)
