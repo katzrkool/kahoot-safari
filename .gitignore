@@ -10,3 +10,4 @@
 
 ### Xcode Patch ###
 **/xcshareddata/WorkspaceSettings.xcsettings
+*.pxd
