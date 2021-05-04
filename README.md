@@ -7,7 +7,7 @@ The easiest way to install is via the [Mac App Store](https://apps.apple.com/us/
 
 To install from source, clone the repo and follow the [instructions from Apple](https://developer.apple.com/documentation/safariservices/safari_app_extensions/building_a_safari_app_extension#2957926)
 
-The repo for the Firefox version that this repo is based off of is available at [katzrkool/kahoot](https://github.com/katzrkool/kahoot).
+The repo for the Firefox and Chrome version that this repo is based off of is available at [lkellar/kahoot](https://github.com/lkellar/kahoot).
 
 ## Usage
 By default, the shortcuts are mapped to
