@@ -419,7 +419,7 @@
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = "Kahoot Keyboard Shortcuts Extension/Kahoot_Keyboard_Shortcuts_Extension.entitlements";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 10;
+				CURRENT_PROJECT_VERSION = 11;
 				INFOPLIST_FILE = "Kahoot Keyboard Shortcuts Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -427,7 +427,7 @@
 					"@executable_path/../../../../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.15;
-				MARKETING_VERSION = 2021.1;
+				MARKETING_VERSION = 2021.2;
 				PRODUCT_BUNDLE_IDENTIFIER = org.lkellar.kahoot.extension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
@@ -440,7 +440,7 @@
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = "Kahoot Keyboard Shortcuts Extension/Kahoot_Keyboard_Shortcuts_Extension.entitlements";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 10;
+				CURRENT_PROJECT_VERSION = 11;
 				INFOPLIST_FILE = "Kahoot Keyboard Shortcuts Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -448,7 +448,7 @@
 					"@executable_path/../../../../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.15;
-				MARKETING_VERSION = 2021.1;
+				MARKETING_VERSION = 2021.2;
 				PRODUCT_BUNDLE_IDENTIFIER = org.lkellar.kahoot.extension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
@@ -465,14 +465,14 @@
 				CODE_SIGN_ENTITLEMENTS = "Kahoot Keyboard Shortcuts/Kahoot_Keyboard_Shortcuts.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 10;
+				CURRENT_PROJECT_VERSION = 11;
 				INFOPLIST_FILE = "Kahoot Keyboard Shortcuts/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.15;
-				MARKETING_VERSION = 2021.1;
+				MARKETING_VERSION = 2021.2;
 				PRODUCT_BUNDLE_IDENTIFIER = org.lkellar.kahoot;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -488,14 +488,14 @@
 				CODE_SIGN_ENTITLEMENTS = "Kahoot Keyboard Shortcuts/Kahoot_Keyboard_Shortcuts.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 10;
+				CURRENT_PROJECT_VERSION = 11;
 				INFOPLIST_FILE = "Kahoot Keyboard Shortcuts/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.15;
-				MARKETING_VERSION = 2021.1;
+				MARKETING_VERSION = 2021.2;
 				PRODUCT_BUNDLE_IDENTIFIER = org.lkellar.kahoot;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
